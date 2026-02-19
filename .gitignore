@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+vm_state.json
+vm.pid
+*.qcow2
+OVMF_VARS.fd
